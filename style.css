@@ -1,0 +1,10 @@
+:root {
+    --bgCostom: #32325D;
+    --bgDropdown: #222250;
+    --bgCardCostom: #eff0fc;
+    --bgBtnCostom: #4a4aa0;
+    --bgBtnCostomHover: #303075;
+    --bgBorderDrop: 3px solid#3ecf8e;
+    --textMuted: #8789C6;
+    --textLink: #267ef1;
+}
